@@ -71,5 +71,5 @@ def show_pump_data(data):
     plt.show()
 
 
-if name == "main":
-    show_pump_data(load_pump_data())
+if name == "main":    
+    show_pump_data(load_pump_data()) 
